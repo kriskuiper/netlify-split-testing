@@ -1,5 +1,5 @@
 # netlify-split-testing
-![Scherm­afbeelding 2023-05-04 om 16 22 44](https://user-images.githubusercontent.com/32248471/236239312-7bb86542-46ab-4d3a-95eb-0fbc5112a96c.png)
+<img width="600" alt="Scherm­afbeelding 2023-05-04 om 16 34 32" src="https://user-images.githubusercontent.com/32248471/236240233-13766970-ff89-4d22-8d70-819ace83166c.png"><img width="600" alt="Scherm­afbeelding 2023-05-04 om 16 34 40" src="https://user-images.githubusercontent.com/32248471/236240308-391f81ca-9b00-4cd1-b096-564a8223b2ba.png">
 
 > Test Netlify's Split Testing feature
 
