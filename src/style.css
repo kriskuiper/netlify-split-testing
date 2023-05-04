@@ -30,6 +30,8 @@ a {
   text-align: center;
   padding: 5rem 0;
   font-size: 150%;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 .company-info__title {
@@ -45,9 +47,15 @@ footer {
 
 .product-info {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   grid-gap: 3rem;
   margin-bottom: 5rem;
+}
+
+@media (min-width: 768px) {
+  .product-info {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 .product-image {
