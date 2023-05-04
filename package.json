@@ -1,0 +1,17 @@
+{
+  "name": "netlify-split-testing",
+  "description": "Test Netlify's Split Testing feature",
+  "scripts": {
+    "build": "cp src/* dist/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kriskuiper/netlify-split-testing.git"
+  },
+  "author": "Kris Kuiper <mail@kris-kuiper.nl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kriskuiper/netlify-split-testing/issues"
+  },
+  "homepage": "https://github.com/kriskuiper/netlify-split-testing#readme"
+}
